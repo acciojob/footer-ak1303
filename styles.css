@@ -36,6 +36,7 @@ li{
 }
 .media-icons{
 	padding:2px;
+	display:flex;
 }
 .bottom-details{
 	display:flex;
